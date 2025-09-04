@@ -1,6 +1,6 @@
 # notes_app
 
-Flutter Notes App to add, organize, and search your notes with a clean UI, and offline-first experience. Create color-coded notes, pin favorites, and stay productive on the go.
+Flutter Notes App to add, organize, and search your notes with a clean UI, and offline-first experience. Create color-coded notes, and stay productive on the go.
 
 ## Getting Started
 
