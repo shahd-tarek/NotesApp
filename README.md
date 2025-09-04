@@ -1,6 +1,6 @@
 # notes_app
 
-A new Flutter project.
+Flutter Notes App to add, organize, and search your notes with a clean UI, and offline-first experience. Create color-coded notes, pin favorites, and stay productive on the go.
 
 ## Getting Started
 
